@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "RegistrationForm.Controllers.ApplicantController",
+    "Method": "AddApplicants",
+    "RelativePath": "api/Applicant/api/AddApplicants",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addapplicants",
+        "Type": "RegistrationForm.Models.Applicant",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RegistrationForm.Controllers.ApplicantController",
+    "Method": "GetAllApplicants",
+    "RelativePath": "api/Applicant/api/GetAllApplicants",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RegistrationForm.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[RegistrationForm.WeatherForecast, RegistrationForm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

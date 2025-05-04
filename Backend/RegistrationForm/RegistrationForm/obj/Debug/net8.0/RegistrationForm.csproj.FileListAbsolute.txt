@@ -1,0 +1,296 @@
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\appsettings.Development.json
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\appsettings.json
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\RegistrationForm.staticwebassets.endpoints.json
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\RegistrationForm.exe
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\RegistrationForm.deps.json
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\RegistrationForm.runtimeconfig.json
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\RegistrationForm.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\RegistrationForm.pdb
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Azure.Core.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Azure.Identity.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Humanizer.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.ClientModel.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.CodeDom.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.csproj.AssemblyReference.cache
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.AssemblyInfoInputs.cache
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.AssemblyInfo.cs
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.csproj.CoreCompileInputs.cache
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.MvcApplicationPartsAssemblyInfo.cs
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.MvcApplicationPartsAssemblyInfo.cache
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.sourcelink.json
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\scopedcss\bundle\RegistrationForm.styles.css
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets.build.json
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets.development.json
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets\msbuild.RegistrationForm.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets\msbuild.RegistrationForm.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets\msbuild.build.RegistrationForm.props
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RegistrationForm.props
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RegistrationForm.props
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\Registra.FD1F2349.Up2Date
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\refint\RegistrationForm.dll
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.pdb
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.genruntimeconfig.cache
+D:\MyProjects\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\ref\RegistrationForm.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\appsettings.Development.json
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\appsettings.json
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\RegistrationForm.staticwebassets.endpoints.json
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\RegistrationForm.exe
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\RegistrationForm.deps.json
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\RegistrationForm.runtimeconfig.json
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\RegistrationForm.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\RegistrationForm.pdb
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Azure.Core.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Azure.Identity.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Humanizer.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.ClientModel.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.CodeDom.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.csproj.AssemblyReference.cache
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.AssemblyInfoInputs.cache
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.AssemblyInfo.cs
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.csproj.CoreCompileInputs.cache
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.MvcApplicationPartsAssemblyInfo.cs
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.MvcApplicationPartsAssemblyInfo.cache
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.sourcelink.json
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\scopedcss\bundle\RegistrationForm.styles.css
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets.build.json
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets.development.json
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets\msbuild.RegistrationForm.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets\msbuild.RegistrationForm.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets\msbuild.build.RegistrationForm.props
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RegistrationForm.props
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RegistrationForm.props
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\Registra.FD1F2349.Up2Date
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\refint\RegistrationForm.dll
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.pdb
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\RegistrationForm.genruntimeconfig.cache
+D:\MyProjects\Interview assesments\Cogent_Solutions_Test\Backend\RegistrationForm\RegistrationForm\obj\Debug\net8.0\ref\RegistrationForm.dll

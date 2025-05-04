@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyProjects\\Interview assesments\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE936598-3D3B-49E3-9D62-8D5818CE01F7}|RegistrationForm\\RegistrationForm.csproj|d:\\myprojects\\interview assesments\\cogent_solutions_test\\backend\\registrationform\\registrationform\\controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE936598-3D3B-49E3-9D62-8D5818CE01F7}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE936598-3D3B-49E3-9D62-8D5818CE01F7}|RegistrationForm\\RegistrationForm.csproj|d:\\myprojects\\interview assesments\\cogent_solutions_test\\backend\\registrationform\\registrationform\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE936598-3D3B-49E3-9D62-8D5818CE01F7}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE936598-3D3B-49E3-9D62-8D5818CE01F7}|RegistrationForm\\RegistrationForm.csproj|d:\\myprojects\\interview assesments\\cogent_solutions_test\\backend\\registrationform\\registrationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE936598-3D3B-49E3-9D62-8D5818CE01F7}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE936598-3D3B-49E3-9D62-8D5818CE01F7}|RegistrationForm\\RegistrationForm.csproj|d:\\myprojects\\interview assesments\\cogent_solutions_test\\backend\\registrationform\\registrationform\\models\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE936598-3D3B-49E3-9D62-8D5818CE01F7}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\models\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE936598-3D3B-49E3-9D62-8D5818CE01F7}|RegistrationForm\\RegistrationForm.csproj|d:\\myprojects\\interview assesments\\cogent_solutions_test\\backend\\registrationform\\registrationform\\migrations\\20250504101848_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE936598-3D3B-49E3-9D62-8D5818CE01F7}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\migrations\\20250504101848_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyProjects\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\Migrations\\20250504095655_initialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE936598-3D3B-49E3-9D62-8D5818CE01F7}|RegistrationForm\\RegistrationForm.csproj|d:\\myprojects\\interview assesments\\cogent_solutions_test\\backend\\registrationform\\registrationform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE936598-3D3B-49E3-9D62-8D5818CE01F7}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250504101848_initialMigration.cs",
+              "DocumentMoniker": "D:\\MyProjects\\Interview assesments\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\Migrations\\20250504101848_initialMigration.cs",
+              "RelativeDocumentMoniker": "RegistrationForm\\Migrations\\20250504101848_initialMigration.cs",
+              "ToolTip": "D:\\MyProjects\\Interview assesments\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\Migrations\\20250504101848_initialMigration.cs",
+              "RelativeToolTip": "RegistrationForm\\Migrations\\20250504101848_initialMigration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:18:48.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250504095655_initialMigration.cs",
+              "DocumentMoniker": "D:\\MyProjects\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\Migrations\\20250504095655_initialMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\Migrations\\20250504095655_initialMigration.cs",
+              "ToolTip": "D:\\MyProjects\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\Migrations\\20250504095655_initialMigration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\Migrations\\20250504095655_initialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:56:56.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicantController.cs",
+              "DocumentMoniker": "D:\\MyProjects\\Interview assesments\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\Controllers\\ApplicantController.cs",
+              "RelativeDocumentMoniker": "RegistrationForm\\Controllers\\ApplicantController.cs",
+              "ToolTip": "D:\\MyProjects\\Interview assesments\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\Controllers\\ApplicantController.cs",
+              "RelativeToolTip": "RegistrationForm\\Controllers\\ApplicantController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:58:10.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\MyProjects\\Interview assesments\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RegistrationForm\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\MyProjects\\Interview assesments\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RegistrationForm\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:11:20.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Applicant.cs",
+              "DocumentMoniker": "D:\\MyProjects\\Interview assesments\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\Models\\Applicant.cs",
+              "RelativeDocumentMoniker": "RegistrationForm\\Models\\Applicant.cs",
+              "ToolTip": "D:\\MyProjects\\Interview assesments\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\Models\\Applicant.cs",
+              "RelativeToolTip": "RegistrationForm\\Models\\Applicant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:10:56.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProjects\\Interview assesments\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\Program.cs",
+              "RelativeDocumentMoniker": "RegistrationForm\\Program.cs",
+              "ToolTip": "D:\\MyProjects\\Interview assesments\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\Program.cs",
+              "RelativeToolTip": "RegistrationForm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:08:47.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MyProjects\\Interview assesments\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\appsettings.json",
+              "RelativeDocumentMoniker": "RegistrationForm\\appsettings.json",
+              "ToolTip": "D:\\MyProjects\\Interview assesments\\Cogent_Solutions_Test\\Backend\\RegistrationForm\\RegistrationForm\\appsettings.json",
+              "RelativeToolTip": "RegistrationForm\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T08:08:11.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
